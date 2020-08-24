@@ -1270,6 +1270,8 @@ in {
 
   pygame = callPackage ../development/python-modules/pygame { };
 
+  pygame2 = callPackage ../development/python-modules/pygame2 { };
+
   pygbm = callPackage ../development/python-modules/pygbm { };
 
   pygame_sdl2 = callPackage ../development/python-modules/pygame_sdl2 { };
